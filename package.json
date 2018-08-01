@@ -125,7 +125,7 @@
     "react-virtualized": "^9.0.0"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0-alpha",
-    "react-dom": "^15.3.0 || ^16.0.0-alpha"
+    "react": "^15.3.0 || ^16.0.0",
+    "react-dom": "^15.3.0 || ^16.0.0"
   }
 }
